@@ -1,2 +1,2 @@
 # ToDoList
- Lista to do com django
+ Lista to do com django e AJAX
